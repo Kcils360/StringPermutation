@@ -1,0 +1,11 @@
+C:\Users\admin\codefellows\401\StringPermutation\StringPermutation\StringPermutation\bin\Debug\netcoreapp2.0\StringPermutation.deps.json
+C:\Users\admin\codefellows\401\StringPermutation\StringPermutation\StringPermutation\bin\Debug\netcoreapp2.0\StringPermutation.runtimeconfig.json
+C:\Users\admin\codefellows\401\StringPermutation\StringPermutation\StringPermutation\bin\Debug\netcoreapp2.0\StringPermutation.runtimeconfig.dev.json
+C:\Users\admin\codefellows\401\StringPermutation\StringPermutation\StringPermutation\bin\Debug\netcoreapp2.0\StringPermutation.dll
+C:\Users\admin\codefellows\401\StringPermutation\StringPermutation\StringPermutation\bin\Debug\netcoreapp2.0\StringPermutation.pdb
+C:\Users\admin\codefellows\401\StringPermutation\StringPermutation\StringPermutation\obj\Debug\netcoreapp2.0\StringPermutation.csprojResolveAssemblyReference.cache
+C:\Users\admin\codefellows\401\StringPermutation\StringPermutation\StringPermutation\obj\Debug\netcoreapp2.0\StringPermutation.csproj.CoreCompileInputs.cache
+C:\Users\admin\codefellows\401\StringPermutation\StringPermutation\StringPermutation\obj\Debug\netcoreapp2.0\StringPermutation.AssemblyInfoInputs.cache
+C:\Users\admin\codefellows\401\StringPermutation\StringPermutation\StringPermutation\obj\Debug\netcoreapp2.0\StringPermutation.AssemblyInfo.cs
+C:\Users\admin\codefellows\401\StringPermutation\StringPermutation\StringPermutation\obj\Debug\netcoreapp2.0\StringPermutation.dll
+C:\Users\admin\codefellows\401\StringPermutation\StringPermutation\StringPermutation\obj\Debug\netcoreapp2.0\StringPermutation.pdb
