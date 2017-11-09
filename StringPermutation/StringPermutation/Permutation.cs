@@ -22,12 +22,15 @@ namespace StringPermutation
                 Console.Write(" ");
             }
             else
+            {
                 for (i = k; i <= m; i++)
                 {
                     Swap(ref arr[k], ref arr[i]);
                     Permut(arr, k + 1, m);
                     Swap(ref arr[k], ref arr[i]);
                 }
+            }
         }
+
     }
 }
